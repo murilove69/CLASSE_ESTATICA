@@ -37,3 +37,7 @@ Version: 2024-06 (4.32.0)
 
 **Murilo Ramos Terra Rodrigues** - *Trabalho Inicial* - Lista de Exercícios AC2 - CLASSE ESTÁTICA
 
+## Imagem
+![Captura de tela 2024-10-23 214741](https://github.com/user-attachments/assets/ac4da0f1-0b26-4831-ad19-1a80cbe4bc9a)
+
+
